@@ -21,9 +21,9 @@ Treballareu en els vostres grups habituals.
 ### Lliurament ###
 
 Cadascú de vosaltres ha de una secció al final del README.md del vostre repositori projecte 4 incloent els següents enllaços:
-- enllaç aquest repositori [EverPia-Onboarding](https://github.com/SMX2n/EverPia-Onboarding)
-- enllaç al repositori del seu grup [EverPia-Onboarding-GrupA012](https://github.com/SMX2n/EverPia-Onboarding)
-- enllaç al repositori propi [EverPia-Onboarding-CarlesAlonso]((https://github.com/SMX2n/EverPia-Onboarding)
+- Enllaç aquest repositori [EverPia-Onboarding](https://github.com/SMX2n/EverPia-Onboarding)
+- Enllaç al repositori del seu grup [EverPia-Onboarding-GrupA012](https://github.com/SMX2n/EverPia-Onboarding)
+- Enllaç al repositori propi [EverPia-Onboarding-CarlesAlonso]((https://github.com/SMX2n/EverPia-Onboarding)
 
 ### Materials i links de suport ###
 Guia de l’activitat: 
